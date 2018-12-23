@@ -18,7 +18,7 @@ public class Greeter {
   }
 
   /**
- * veremos a ver
+ * veremos a ver.
  * @return el resultado
  */
 public final String greet(final String someone) {
