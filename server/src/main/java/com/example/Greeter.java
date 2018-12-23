@@ -1,6 +1,7 @@
 /**
  * This es para definir el paquete.
  */
+
 package com.example;
 
 /**
@@ -15,8 +16,12 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
-  public String greet(String someone) {
+  /**
+ * @param esto es para alguien
+ * @return el resultado
+ */
+  
+  public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
