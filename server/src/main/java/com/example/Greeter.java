@@ -1,3 +1,6 @@
+/**
+ * This es para definir el paquete.
+ */
 package com.example;
 
 /**
